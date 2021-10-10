@@ -165,7 +165,8 @@ html,body,a{
 
 
 
-
+/*
+画像クリックすると拡大
 ul li a:hover {
     opacity: 0.8;
   }
@@ -207,3 +208,4 @@ ul li a img {
     color: #fff;
     text-decoration: none;
   }
+*/
