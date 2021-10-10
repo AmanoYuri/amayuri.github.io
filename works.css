@@ -166,11 +166,11 @@ html,body,a{
 
 
 
-img-js li a:hover {
+ul li a:hover {
     opacity: 0.8;
   }
 
-img-js li a img {
+ul li a img {
     width: 200px;
   }
 
